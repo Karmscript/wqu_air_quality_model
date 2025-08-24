@@ -95,7 +95,7 @@ git clone https://github.com/Karmscript/wqu_air_quality_model
 pip install -r requirements.txt
 ```
 
-3. Run scripts or open the Jupyter notebook for a step-by-step workflow
+3. Run scripts 
 
 ---
 
